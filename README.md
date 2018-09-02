@@ -1,2 +1,2 @@
-# projrct1
+# project1
 This is project root folder
